@@ -1,0 +1,25 @@
+{
+  "header" : {
+    "dataModelVersion" : "2"
+  },
+  "content" : {
+    "comments" : "",
+    "componentType" : "PROCESS_GROUP",
+    "connections" : [ ],
+    "controllerServices" : [ ],
+    "funnels" : [ ],
+    "identifier" : "bc90c2d3-a003-36c0-9d0a-113a2bbfc01c",
+    "inputPorts" : [ ],
+    "labels" : [ ],
+    "name" : "drew",
+    "outputPorts" : [ ],
+    "position" : {
+      "x" : 443.0,
+      "y" : 147.0
+    },
+    "processGroups" : [ ],
+    "processors" : [ ],
+    "remoteProcessGroups" : [ ],
+    "variables" : { }
+  }
+}
