@@ -1,4 +1,5 @@
 flows:
   a0d92744-52b5-4626-8f4f-ea6b4a8aeb94: {ver: 1, file: blah.snapshot}
+  8a813d50-af78-4221-8ec2-ab7217eb98dc: {ver: 1, file: var_test.snapshot}
 layoutVer: 1
 bucketId: ff0bc555-0257-42b3-8c98-8c0e22a186b0
